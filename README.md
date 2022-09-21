@@ -1,6 +1,6 @@
 # Titanic Disaster - Binary Classification
 
-Problem to solve: On the Titanic disaster predict who would survive based on 4 features: sex, age, fare and class.
+**Problem to solve:** On the Titanic disaster predict who would survive based on 4 features: sex, age, fare and class.
 
 Data Information:
 
